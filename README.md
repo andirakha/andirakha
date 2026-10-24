@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/github/followers/andirakha?style=flat&logo=github" alt="Followers" />
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 - 🔭 Hands-on experience in machine learning through bootcamp and course projects
@@ -18,8 +16,6 @@
 - 👯 I'm looking to collaborate on **data science, machine learning, and AI projects** with real-world impact
 - 💬 Ask me about **machine learning, classification & clustering, sentiment analysis, and prompt engineering**
 - ⚡ Fun fact: **Curious about nature, science, and mythology**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -55,22 +51,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
 ## 📌 Featured Projects
 
 Coming soon
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=andirakha&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirakha&layout=compact" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andirakha&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirakha&layout=compact" alt="Top languages" />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -78,8 +68,6 @@ Coming soon
   <a href="https://www.linkedin.com/in/andi-muh-rakha-makkawaru-975524301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:andi17rakha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
 
 <p align="center">
   ⭐ Thanks for stopping by! Feel free to explore my repositories.
