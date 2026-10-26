@@ -47,7 +47,9 @@
 
 ## 📌 Featured Projects
 
-Coming soon
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Indoor Positioning Lab** | Wi-Fi RSSI fingerprinting system that predicts which room a device is in, reaching about 88% accuracy in Group K-Fold and Leave-One-Group-Out validation across 10 locations. | Python, scikit-learn (KNN), pandas, Streamlit, pywifi, Jupyter | [Repo](https://github.com/andirakha/ips-wifi-fingerprinting) |
 
 ## 📊 GitHub Stats
 
