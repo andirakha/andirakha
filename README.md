@@ -49,6 +49,7 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
+| **Skincare Review Intelligence** | Cleans 8,646 skincare reviews, ranks 798 products with a Bayesian weighted rating, and summarizes praise and complaints with Gemini; includes a static dashboard. | Python, pandas, Gemini API, HTML/CSS/JS, Jupyter | [Repo](https://github.com/andirakha/skincare-review-analysis) |
 | **Indoor Positioning Lab** | Wi-Fi RSSI fingerprinting system that predicts which room a device is in, reaching about 88% accuracy in Group K-Fold and Leave-One-Group-Out validation across 10 locations. | Python, scikit-learn (KNN), pandas, Streamlit, pywifi, Jupyter | [Repo](https://github.com/andirakha/ips-wifi-fingerprinting) |
 
 ## 📊 GitHub Stats
