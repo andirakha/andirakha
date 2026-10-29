@@ -15,7 +15,6 @@
 - 🌱 I'm currently learning **NLP, LLMs, and Generative AI**
 - 👯 I'm looking to collaborate on **data science, machine learning, and AI projects** with real-world impact
 - 💬 Ask me about **machine learning, classification & clustering, sentiment analysis, and prompt engineering**
-- ⚡ Fun fact: **Curious about nature, science, and mythology**
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andirakha&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=andirakha&show_icons=true&theme=default" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirakha&layout=compact" alt="Top languages" />
 </p>
 
