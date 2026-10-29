@@ -32,8 +32,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
-**Generative AI & LLM**<br>
-![IBM Granite](https://img.shields.io/badge/IBM_Granite-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+**Generative AI**<br>
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models_(LLMs)-0F62FE?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Deployment & Web App**<br>
