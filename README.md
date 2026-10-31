@@ -55,7 +55,7 @@
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=andirakha&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andirakha&layout=compact" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andirakha&layout=compact" alt="Top languages" />
 </p>
 
 ## 🤝 Let's Connect
